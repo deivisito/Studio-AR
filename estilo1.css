@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    width: 1100px;
+    margin: auto;
+}
+
+.UwU li {
+    width: 300px;
+    border: 2px solid rgb(138, 0, 0);
+    background-color: hsla(0, 0%, 10%, 0.459);
+    list-style: none;
+    font: bold 13px verdana;
+    float: left;
+    margin: 20px;
+}
+
+.OwO li {
+    list-style: none;
+    display: inline-block;
+}
+
+.content {
+    text-align: center;
+    background-color: rgba(75, 75, 75, 0.37);
+    border: 2px solid rgb(95, 1, 29);
+    margin: auto;
+    width: 960px;
+    font: bold 14px verdana;
+}
+
+.derechos {
+    font: bold 14px verdana;
+}
+
+.AR {
+    width: 860px;
+    margin: auto;
+}

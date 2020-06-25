@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    width: 1100px;
+    margin: auto;
+}
+
+.UwU li {
+    width: 220px;
+    border: 2px solid rgb(138, 0, 0);
+    background-color: hsla(0, 0%, 10%, 0.459);
+    list-style: none;
+    font: bold 13px verdana;
+    float: right;
+    margin: 20px;
+}
+
+.OwO li {
+    width: 300px;
+    border: 2px solid rgb(138, 0, 0);
+    background-color: hsla(0, 0%, 10%, 0.459);
+    list-style: none;
+    font: bold 13px verdana;
+    float: left;
+    margin: 20px;
+}
